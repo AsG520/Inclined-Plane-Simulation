@@ -1,7 +1,7 @@
 import javax.swing.JFrame;
 import java.awt.Color;
 
-public class InlinedPlaneSimulation {
+public class IncinedPlaneSimulation {
     public static void main(String args[]) {
         JFrame frame = new JFrame("Inclined Plane Simulation");
         frame.setVisible(true);
