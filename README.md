@@ -18,4 +18,4 @@ How to Run
 Video Details for Simulation
 - [Will Come Soon!].
 
-Video Link of Simulating Motion of Inclined Plane in Java (YouTube) - [Will Come Soon].
+Video Link of Simulating Motion of Inclined Plane in Java (YouTube) - [Coming Soon!].
